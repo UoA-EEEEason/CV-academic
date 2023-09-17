@@ -5,9 +5,9 @@ avatar_filename: ""
 bio: My research interests include full-stack website development, software
   design, and data mining.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Information Technology
+  - Software Design and Develop
+  - Data Science
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,19 +31,16 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Auckland
+    url: https://www.auckland.ac.nz/en.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Information Technology
+      institution: University of Auckland
+      year: 2023
+    - course: Bachelor of Computer Science and Technology
+      institution: Beijing University of Post and Telecommunication
+      year: 2022
 superuser: true
 status:
   icon: ☕️
